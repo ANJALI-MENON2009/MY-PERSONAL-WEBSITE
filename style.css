@@ -1,0 +1,207 @@
+#books,
+#chole,
+#cartoon {
+    height: 300px;
+    border: 2px solid;
+    padding: 5px;
+    border-radius: 350px;
+}
+
+body {
+    background-image: linear-gradient(#89e0b5, #eea56d, #d33de6, #833de6);
+    text-align: center;
+}
+
+
+#cartoon {
+    padding: 8px;
+}
+
+#subtitle1 {
+    font-size: 30px;
+    text-shadow: 2px 1px #E53935;
+    font-family: 'Pacifico', cursive;
+}
+
+#subheading2 {
+    font-size: 30px;
+    text-shadow: 2px 1px #EEFF41;
+    font-family: 'Pacifico', cursive;
+}
+
+#subheading3 {
+    font-size: 30px;
+    text-shadow: 2px 1px #F57F17;
+    font-family: 'Pacifico', cursive;
+}
+
+#shinchan {
+    font-size: 20px;
+    text-shadow: none;
+    font-variant: small-caps;
+    font-family: none;
+}
+
+#hobby {
+    font-size: 20px;
+    text-shadow: none;
+    font-variant: small-caps;
+    font-family: none;
+}
+
+#cholebhature {
+    font-size: 20px;
+    text-shadow: none;
+    font-variant: small-caps;
+    font-family: none;
+}
+
+#topic {
+    font-size: 50px;
+    color: purple;
+}
+
+#mypic {
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    width: 220px;
+    margin-top: 70px;
+}
+
+#me {
+    text-decoration: none;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Imbue', serif;
+    position: fixed;
+    top: 5px;
+    left: 5px;
+    z-index: 30;
+    cursor: pointer;
+}
+
+#kalam {
+    font-size: 35px;
+    color: darkred;
+}
+
+#apjkalam {
+    color: black;
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.links {
+    float: left;
+    color: cornsilk;
+    padding-top: 7px;
+    padding-right: 13px;
+    padding-left: 13px;
+    padding-bottom: 7px;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 30px;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.links:hover {
+    background-color: chocolate;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid green;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+
+#applinks {
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+#contacts {
+    font-family: 'East Sea Dokdo', cursive;
+    color: burlywood;
+    background-color: brown;
+    border: 3px solid;
+    border-color: black;
+    border-radius: 55%;
+    font-size: 35px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 340px;
+    margin: 8px auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#img1 {
+    height: 350px;
+}
+
+#img2 {
+    height: 400px;
+    width: 300x;
+}
+
+#apj {
+    height: 400px;
+    width: 500px;
+    margin-bottom: -15px;
+}
+
+#fam {
+    height: 400px;
+    width: 400px;
+    margin-bottom: -15px;
+}
+
+#bookrev {
+    color: darkblue;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+#famous5 {
+    color: darkmagenta;
+    font-size: 25px;
+    font-family: 'Romanesco', cursive;
+    background-color: beige;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
+
+#games {
+    width: 100%;
+    height: 600px;
+    background-color: darkkhaki;
+}
+
+#gameimg {
+    transition: transform 0.2 s;
+}
+
+#gameimg:hover {
+    transform: scale(0.9);
+}
+
+#chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
